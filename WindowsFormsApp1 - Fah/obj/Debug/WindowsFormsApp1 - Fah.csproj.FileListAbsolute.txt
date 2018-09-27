@@ -1,0 +1,10 @@
+C:\Users\Wahyu\Downloads\WindowsFormsApp1 - Fah\WindowsFormsApp1 - Fah\obj\Debug\WindowsFormsApp1 - Fah.csprojAssemblyReference.cache
+C:\Users\Wahyu\Downloads\WindowsFormsApp1 - Fah\WindowsFormsApp1 - Fah\obj\Debug\WindowsFormsApp1___Fah.Form1.resources
+C:\Users\Wahyu\Downloads\WindowsFormsApp1 - Fah\WindowsFormsApp1 - Fah\obj\Debug\WindowsFormsApp1___Fah.Properties.Resources.resources
+C:\Users\Wahyu\Downloads\WindowsFormsApp1 - Fah\WindowsFormsApp1 - Fah\obj\Debug\WindowsFormsApp1 - Fah.csproj.GenerateResource.cache
+C:\Users\Wahyu\Downloads\WindowsFormsApp1 - Fah\WindowsFormsApp1 - Fah\obj\Debug\WindowsFormsApp1 - Fah.csproj.CoreCompileInputs.cache
+C:\Users\Wahyu\Downloads\WindowsFormsApp1 - Fah\WindowsFormsApp1 - Fah\bin\Debug\WindowsFormsApp1 - Fah.exe.config
+C:\Users\Wahyu\Downloads\WindowsFormsApp1 - Fah\WindowsFormsApp1 - Fah\bin\Debug\WindowsFormsApp1 - Fah.exe
+C:\Users\Wahyu\Downloads\WindowsFormsApp1 - Fah\WindowsFormsApp1 - Fah\bin\Debug\WindowsFormsApp1 - Fah.pdb
+C:\Users\Wahyu\Downloads\WindowsFormsApp1 - Fah\WindowsFormsApp1 - Fah\obj\Debug\WindowsFormsApp1 - Fah.exe
+C:\Users\Wahyu\Downloads\WindowsFormsApp1 - Fah\WindowsFormsApp1 - Fah\obj\Debug\WindowsFormsApp1 - Fah.pdb
